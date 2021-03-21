@@ -1,6 +1,8 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color:rgba(25, 240, 90, 0.52);
+  ;
 }
 
 button, input {
@@ -19,7 +21,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #d80a0a;
 }
 
 .error {
