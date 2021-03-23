@@ -1,6 +1,11 @@
 # Baron_Budget
 Budget Tracker application to allow for offline access and functionality.
 
+  * [User Story](#userstory)
+  * [Description](#Description)
+  * [Tools](#Tools)
+  * [Heroku](#Heroku)
+  * [Screencastify](#Screencastify)
 
 ## User Story
 AS AN avid traveller
@@ -29,3 +34,17 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+
+## Tools
+ * Node JS
+ * Javascript
+ * Mongo DB 
+ * Cloud Atlas
+ * Heroku 
+ * HTML/ CSS 
+ 
+ ## Heroku
+ https://afternoon-cliffs-33368.herokuapp.com/
+
+ ## Screencastify
+ <iframe src="https://drive.google.com/file/d/1s2Sd7Pazq_946CLheJ35FgKrPaPY1HT-/preview" width="640" height="480"></iframe>
