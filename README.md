@@ -47,4 +47,4 @@ When brought back online:
  https://afternoon-cliffs-33368.herokuapp.com/
 
  ## Screencastify
- <iframe src="https://drive.google.com/file/d/1s2Sd7Pazq_946CLheJ35FgKrPaPY1HT-/preview" width="640" height="480"></iframe>
+ https://drive.google.com/file/d/1s2Sd7Pazq_946CLheJ35FgKrPaPY1HT-/view
